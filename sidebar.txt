@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emu:home|Door43 (emu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emu|d43-emu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emu/archive/master.zip|d43-emu.zip]]
+
+**Recent Changes**
+{{changes>ns = emu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emu|Ethnologue data]]
+
